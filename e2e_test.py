@@ -2,7 +2,7 @@
 import subprocess, sys, os, shutil
 
 SKILL_DIR = os.path.dirname(os.path.abspath(__file__))
-SCRIPT = os.path.join(SKILL_DIR, "geoskill-buffer-analysis.py")
+SCRIPT = os.path.join(SKILL_DIR, "geoskill-geoskill-buffer-analysis.py")
 PASS = FAIL = 0
 
 
